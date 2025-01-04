@@ -11,7 +11,7 @@ async function about() {
 //javascrip
   return (
     <>
-      <div>about</div>
+      <div>about9999</div>
     </>
   )
 }
